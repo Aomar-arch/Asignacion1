@@ -1,4 +1,69 @@
-/* Este es el css
-//Omar
-//Sarai 
-//Edwin */
+/*
+    Letra: font-family: Arial, sans-serif;
+    Tamaño: font-size: 24px;
+    Color: color: rgb(0, 0, 0);
+    
+    NOTA: 
+    Pueden colocar el resto del css aqui dentro del body, el orden no importa, recuerden guardar 
+    ambos archivos antes de refrescar la pagina o si no, no verán los cambios
+    */
+    
+body {
+    /*Fondo y titulo, NO TOCAR*/
+    background-color: lightblue;
+    margin-top: 50px;
+    .titulo {
+        text-align: center;
+        color: rgb(0, 0, 0);
+        font-family: Arial, sans-serif;
+        font-size: 36px;
+    }
+    /*INICIO EDWIN*/
+    .nEdwin {
+        margin-left: 120px;
+        color: rgb(0, 0, 0);
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+    }
+    .foto_edwin {
+        margin-left: 55px;
+        width: 300px;
+        height: auto;
+        border-radius: 10px;
+    }
+    .eAge{
+        margin-left: 145px;
+        color: rgb(0, 0, 0);
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+    }
+    .hobbies {
+        color: rgb(0, 0, 0);
+        margin-left: 25px;
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+    }
+    /*FIN EDWIN*/
+
+    /*INICIO SARAI*/
+    .cSarai {
+        margin-left: 600px;
+        margin-top: -385px;
+        color: rgb(0, 0, 0);
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+    }
+    /*FIN SARAI*/
+
+    /*INICIO OMAR*/
+    .cOmar {
+        margin-top: -45px;
+        margin-left: 1100px;
+        color: rgb(0, 0, 0);
+        font-size: 24px;
+        font-family: Arial, sans-serif;
+    }
+    /*FIN OMAR*/
+    
+
+}
